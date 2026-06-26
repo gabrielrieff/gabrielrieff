@@ -7,11 +7,7 @@
 
 ## 👦 Sobre mim 
 
-Olá, sou Gabriel, graduando em Análise e Desenvolvimento de Sistemas, com mais de 2 anos de experiência em desenvolvimento de software.
-
-Sou uma pessoa organizada e com habilidades interpessoais desenvolvidas, o que me permite trabalhar bem em equipe e estabelecer relacionamentos produtivos. Tenho uma forte capacidade de análise para resolver problemas e lidar com cenários críticos, sempre disposto a aprender e a colaborar. Estou constantemente em busca de entender o negócio, as necessidades dos clientes e suas dificuldades, para entregar soluções de excelência.
-
-Atuo como desenvolvedor fullstack, utilizando uma variedade de tecnologias, incluindo HTML, CSS, JavaScript/TypeScript, React, .NET, Node.js e MySQL. Estou sempre em busca de expandir meu conhecimento sobre as tecnologias que uso e de me aprofundar em estruturas e padrões de projeto.
+Desenvolvedor Full Stack com mais de 4 anos de experiência na construção de sistemas robustos, seguros e escaláveis. Especialista no ecossistema C#/.NET e SQL Server, com forte atuação em arquiteturas distribuídas e mensageria (Azure Service Bus, RabbitMQ) para comunicação assíncrona entre serviços. No front-end, sólida experiência com React e TypeScript. Focado em entregar código limpo que resolve problemas reais de negócio, com alta usabilidade e manutenibilidade. Diferencial em aplicação prática de Inteligência Artificial para automação de processos técnicos e documentação viva de software.
 
 ## ⚙️ Tech skill
 <div align="center">
